@@ -3,7 +3,7 @@
 <h3 align="center">AI Enthusiast | Software Developer | Data Science Learner</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;Future+AI+Engineer+%26+Data+Scientist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2563EB&center=true&vCenter=true&width=700&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;AI+Engineer+%26+Data+Scientist" alt="Typing SVG" />
 </p>
 
 ---
