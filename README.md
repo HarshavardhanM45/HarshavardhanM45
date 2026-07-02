@@ -14,8 +14,14 @@
 </div>
 
 ---
-<td style="display: flex; justify-content: center; align-items: center;">
-  <img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
+<td align="center">
+  <div align="center">
+    <img
+      src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"
+      width="350"
+      alt="Coding GIF"
+    />
+  </div>
 </td>
 
 # 🚀 About Me
