@@ -47,9 +47,9 @@
 ### 🚀 I have developed projects in
 
 - 🤖 Artificial Intelligence
-- 🌐 Full-Stack Development
-- 🎯 Recommendation Systems
-- 👁️ Computer Vision
+- 🌐 Computer Vision
+- 🎯 Machine Learning
+- 👁️ Full-Stack Development
 
 🧩 Problem-solving is something I genuinely enjoy, and I have solved **500+ LeetCode problems.**
 
@@ -78,7 +78,7 @@
 | 🎓 Education | Computer Science Student |
 | 💻 Primary Language | Python |
 | 🤖 Interests | AI, ML, Data Science |
-| 🚀 Domains | Full Stack, Recommendation Systems, Computer Vision |
+| 🚀 Domains | Machine Learning, Agentic Ai, Full-Stack Development |
 | 🧠 Problem Solving | **500+ LeetCode Problems** |
 | 🎯 Goal | AI Engineer & Data Scientist |
 
