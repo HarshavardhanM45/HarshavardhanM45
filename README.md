@@ -4,7 +4,7 @@
 
 # 👋 Hi, I'm <span style="color:#2563EB;">Harshavardhan</span>
 
-### 🚀 AI Enthusiast • Software Developer • Data Science Learner
+### 🚀 AI Engineer • Software Developer • Data Scientist
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;AI+Engineer+%26+Data+Scientist" />
 
