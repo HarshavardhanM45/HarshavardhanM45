@@ -15,10 +15,8 @@
 </div>
 
 ---
-<td align="center">
-
-<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
+<td style="display: flex; justify-content: center; align-items: center;">
+  <img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
 </td>
 
 # 🚀 About Me
