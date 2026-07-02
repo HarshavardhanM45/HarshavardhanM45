@@ -8,9 +8,8 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;AI+Engineer+%26+Data+Scientist" />
 
-<br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+
 
 </div>
 
