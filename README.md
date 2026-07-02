@@ -2,13 +2,13 @@
 
 <div align="center">
 
-# 👋 Hi, I'm <span style="color:#2563EB;">Harshavardhan</span>
+# 👋 Hi, I'm <span style="color:#4F9DFF;">Harshavardhan</span>
 
 ### 🚀 AI Enthusiast • Software Developer • Data Science Learner
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;AI+Engineer+%26+Data+Scientist" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=1000&color=00C6FF&center=true&vCenter=true&width=900&lines=Computer+Science+Student;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Problem+Solver;AI+Engineer+%26+Data+Scientist"/>
 
-<br>
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0F2027,50:203A43,100:2C5364&text=Welcome%20to%20My%20GitHub&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
@@ -16,15 +16,17 @@
 
 ---
 
+<div align="center">
+
+<img src="./assets/coding.png" width="750" alt="Coding Illustration"/>
+
+</div>
+
+---
+
 # 🚀 About Me
 
-<table>
-<tr>
-<td width="65%">
-
 💡 I'm **Harshavardhan**, a Computer Science student who loves building useful and innovative software.
-
-<br>
 
 🐍 I enjoy working with **Python** and exploring fields like:
 
@@ -36,7 +38,7 @@
 
 🛠️ I enjoy learning new tools, experimenting with ideas, and transforming them into working applications.
 
-### 🚀 I have developed projects in
+## 🚀 I have developed projects in
 
 - 🤖 Artificial Intelligence
 - 🌐 Full-Stack Development
@@ -53,16 +55,6 @@
 
 🌟 Currently working towards becoming an **AI Engineer, Skilled Software Engineer, and Data Scientist.**
 
-</td>
-
-<td align="center">
-
-<img width="350" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif"/>
-
-</td>
-</tr>
-</table>
-
 ---
 
 # 📊 Quick Highlights
@@ -70,7 +62,7 @@
 <div align="center">
 
 | 🌟 Achievement | 🚀 Details |
-|:-------------:|:-----------|
+|:--------------:|:-----------|
 | 🎓 Education | Computer Science Student |
 | 💻 Primary Language | Python |
 | 🤖 Interests | AI, ML, Data Science |
@@ -86,7 +78,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,git,github,vscode,flask,fastapi,html,css,js&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,mysql,mongodb,git,github,vscode,flask,fastapi,html,css,js&theme=dark"/>
 
 </div>
 
@@ -100,6 +92,9 @@
 ![](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
 ![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
 ![](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code)
 
 </div>
 
@@ -125,8 +120,8 @@ Every project is an opportunity to learn something new and create value through 
 
 <div align="center">
 
-| 🚀 |
-|:--:|
+| 🚀 Current Goals |
+|:----------------:|
 | ✨ Artificial Intelligence |
 | ✨ Machine Learning |
 | ✨ Data Science |
@@ -138,9 +133,11 @@ Every project is an opportunity to learn something new and create value through 
 
 ---
 
+# 🏆 Achievements
+
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=1&column=6&no-frame=true&margin-w=15"/>
 
 </div>
 
@@ -148,10 +145,10 @@ Every project is an opportunity to learn something new and create value through 
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=120&section=footer&text=⭐%20Thanks%20for%20Visiting!&fontColor=ffffff&fontSize=30"/>
+### ⭐ Thanks for visiting my profile!
 
-### 🚀 Building • Learning • Innovating
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:667eea,100:764ba2&height=120&section=footer&text=Building%20•%20Learning%20•%20Innovating&fontSize=28&fontColor=ffffff"/>
 
-### ⭐ Happy Coding!
+## 🚀 Happy Coding!
 
 </div>
